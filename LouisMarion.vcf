@@ -8,14 +8,6 @@ EMAIL;type=INTERNET;type=HOME;type=pref:marionlouis1@gmail.com
 item1.EMAIL;type=INTERNET:louis.marion9@etu.univ-lorraine.fr
 item1.X-ABLabel:_$!<School>!$_
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:06 02 31 68 12
-item2.ADR;type=HOME;type=pref:;;34 Rue de la Marne;Champigny sur Marne;Île-de-France;94500;France
-item2.X-ABADR:FR
-item3.ADR:;;10 Avenue De L’alma;La Varenne Saint Hilaire;;94210;France
-item3.X-ABLabel:Père
-item3.X-ABADR:fr
-item4.ADR:;;11 Rue du Président Robert Schuman\nApp 56;Nancy;;54000;France
-item4.X-ABLabel:Appart
-item4.X-ABADR:FR
 BDAY:2000-09-20
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBARXhpZgAATU0AKgAA
  AAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAADzqADAAQAAAABAAAEBAAAAAD/7QA4UG
