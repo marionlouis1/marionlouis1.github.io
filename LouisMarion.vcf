@@ -3,7 +3,6 @@ VERSION:3.0
 PRODID:-//Apple Inc.//macOS 11.4//EN
 N:Marion;Louis;;;
 FN:Louis Marion
-NICKNAME:Louis
 EMAIL;type=INTERNET;type=HOME;type=pref:marionlouis1@gmail.com
 item1.EMAIL;type=INTERNET:louis.marion9@etu.univ-lorraine.fr
 item1.X-ABLabel:_$!<School>!$_
